@@ -1,0 +1,33 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\bin\Debug\WebCam.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\bin\Debug\WebCam.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\bin\Debug\WebCam.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\bin\Debug\WebCam.xml
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\bin\Debug\AForge.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\bin\Debug\AForge.Video.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\bin\Debug\PictureBoxAbouAmmar.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\bin\Debug\AForge.Video.xml
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\obj\Debug\WebCam.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\obj\Debug\WebCam.Form1.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\obj\Debug\WebCam.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\obj\Debug\WebCam.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\obj\Debug\WebCam.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\obj\Debug\WebCam.xml
+c:\users\lenovo\documents\visual studio 2012\Projects\WebCam\WebCam\obj\Debug\WebCam.pdb
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\bin\Debug\WebCam.exe.config
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\bin\Debug\WebCam.exe
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\bin\Debug\WebCam.pdb
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\bin\Debug\WebCam.xml
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\bin\Debug\AForge.Video.xml
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\obj\Debug\WebCam.vbproj.AssemblyReference.cache
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\obj\Debug\WebCam.vbproj.SuggestedBindingRedirects.cache
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\obj\Debug\WebCam.Form1.resources
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\obj\Debug\WebCam.Resources.resources
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\obj\Debug\WebCam.vbproj.GenerateResource.cache
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\obj\Debug\WebCam.vbproj.CoreCompileInputs.cache
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\obj\Debug\WebCam.vbproj.CopyComplete
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\obj\Debug\WebCam.exe
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\obj\Debug\WebCam.xml
+C:\Users\junxian428\Downloads\WebCam\WebCam\WebCam\obj\Debug\WebCam.pdb
